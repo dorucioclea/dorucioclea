@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doru</h1>
 <h3 align="center">A passionate developer from Cluj-Napoca, Romania</h3>
 
-- 🔭 I’m currently working at **CoreBuild**
-
 - 🌱 I’m currently learning **.net and blockchain tech**
 
 - 💬 Ask me about **.net, typescript and docker**
